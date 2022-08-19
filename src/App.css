@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.landing {
+  height: calc(100vh - theme('spacing.7'));
+}
